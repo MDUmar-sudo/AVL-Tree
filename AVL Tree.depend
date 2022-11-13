@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668353300 source:c:\users\assassin\desktop\c&c++_hub\avl tree\main.c
+	<stdio.h>
+	<stdlib.h>
+
